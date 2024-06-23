@@ -4,3 +4,4 @@ we have learnt
 3)git add
 4)git clone
 5)connection
+6)about git
