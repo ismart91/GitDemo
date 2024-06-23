@@ -1,0 +1,7 @@
+we have learnt 
+1)git init
+2)setup
+3)git add
+4)git clone
+5)connection
+6)about git
